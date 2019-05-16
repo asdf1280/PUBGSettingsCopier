@@ -217,7 +217,7 @@
             this.groupBox3.Size = new System.Drawing.Size(265, 96);
             this.groupBox3.TabIndex = 7;
             this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "배그 설정파일 삭제하기";
+            this.groupBox3.Text = "배그 설정파일 백업 삭제하기";
             // 
             // button4
             // 

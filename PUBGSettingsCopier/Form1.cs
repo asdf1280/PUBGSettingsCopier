@@ -36,6 +36,22 @@ namespace PUBGSettingsCopier {
                 Controls.Add(b);
             }
 
+            //Styles
+            Color tmp = Color.FromArgb(50, 50, 50);
+            button1.ForeColor = Color.Black;
+            button2.ForeColor = Color.Black;
+            button1.FlatAppearance.BorderColor = tmp;
+            button2.FlatAppearance.BorderColor = tmp;
+            tmp = Color.FromArgb(16, 16, 16);
+            button3.FlatAppearance.BorderColor = tmp;
+            button1.FlatAppearance.BorderSize = 2;
+            button2.FlatAppearance.BorderSize = 2;
+            button3.FlatAppearance.BorderSize = 2;
+            tmp = Color.FromArgb(209, 209, 209);
+            button1.BackColor = tmp;
+            button2.BackColor = tmp;
+            tmp = Color.FromArgb(58, 58, 58);
+            button3.BackColor = tmp;
             backColors.Add(button1, button1.BackColor);
             backColors.Add(button2, button2.BackColor);
             backColors.Add(button3, button3.BackColor);
