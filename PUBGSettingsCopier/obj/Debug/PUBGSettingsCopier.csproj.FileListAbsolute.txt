@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\PUBGSettingsCopier\PUBGSettingsCopier\bin\Debug\PUBGSettingsCopier.exe.config
+C:\Users\user\source\repos\PUBGSettingsCopier\PUBGSettingsCopier\bin\Debug\PUBGSettingsCopier.exe
+C:\Users\user\source\repos\PUBGSettingsCopier\PUBGSettingsCopier\bin\Debug\PUBGSettingsCopier.pdb
+C:\Users\user\source\repos\PUBGSettingsCopier\PUBGSettingsCopier\obj\Debug\PUBGSettingsCopier.csprojAssemblyReference.cache
+C:\Users\user\source\repos\PUBGSettingsCopier\PUBGSettingsCopier\obj\Debug\PUBGSettingsCopier.Form1.resources
+C:\Users\user\source\repos\PUBGSettingsCopier\PUBGSettingsCopier\obj\Debug\PUBGSettingsCopier.Properties.Resources.resources
+C:\Users\user\source\repos\PUBGSettingsCopier\PUBGSettingsCopier\obj\Debug\PUBGSettingsCopier.csproj.GenerateResource.cache
+C:\Users\user\source\repos\PUBGSettingsCopier\PUBGSettingsCopier\obj\Debug\PUBGSettingsCopier.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PUBGSettingsCopier\PUBGSettingsCopier\obj\Debug\PUBGSettingsCopier.exe
+C:\Users\user\source\repos\PUBGSettingsCopier\PUBGSettingsCopier\obj\Debug\PUBGSettingsCopier.pdb
+C:\Users\user\source\repos\PUBGSettingsCopier\PUBGSettingsCopier\obj\Debug\PUBGSettingsCopier.Form2.resources
